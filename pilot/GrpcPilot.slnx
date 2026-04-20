@@ -1,0 +1,5 @@
+<Solution>
+    <Project Path="GrpcPilot.Client/GrpcPilot.Client.csproj" />
+    <Project Path="GrpcPilot.Server/GrpcPilot.Server.csproj" />
+    <Project Path="GrpcPilot.Shared/GrpcPilot.Shared.csproj" />
+</Solution>
