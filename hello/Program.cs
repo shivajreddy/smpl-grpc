@@ -1,8 +1,7 @@
-using System;
 using Google.Protobuf;
 
 //Create and populate
-var p1 = new Person {Name = "smpl", Age = 30};
+var p1 = new Person { Name = "smpl", Age = 30 };
 Console.WriteLine($"p1:: Name: {p1.Name}, Age: {p1.Age}");
 
 // serialize to bytes
